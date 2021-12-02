@@ -1,0 +1,50 @@
+#container{
+    margin:auto;
+    margin-top: 130px;
+    border:5px solid rgb(104, 104, 104);
+    border-radius: 5px;
+    font-size:30px;
+    padding:10px;
+    text-align:center;
+    height:260px;
+    width:600px;
+    background-color:#141414;
+  }
+  p{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #userInput{
+    width:170px;
+    height:23px;
+  
+  }
+  #outputText{
+    color: brown;}
+
+body{
+  background-image: url("Possible-number-swirl.jpg");
+}
+
+button{
+  border: 1px solid ;
+  border-radius: 8px;
+  align-items: center;
+  padding: 7px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: black;
+  color: #fff;}
+
+#userInput{
+  border: solid ;
+  border-radius: 8px;
+  height: 27px;
+}
+
+#tries{
+  color: #6b6b6b;
+}
